@@ -16,15 +16,15 @@ Welcome to the Network Dynamic Repository! This repository hosts three distinct 
 
 ### 1. Graph Theory
 - **Description:** This project delves into the fascinating world of graph theory, exploring various concepts, algorithms, and applications within network analysis.
-- **README:** [Link to Graph Theory Project README](/graph-theory/README.md)
+- **README:** [Link to Graph Theory Project README](Graph-Theory/README.md)
 
 ### 2. Random Walk
 - **Description:** The Random Walk project is dedicated to understanding and modeling random walks within networks. It examines how particles move randomly through a network and the implications of such behavior.
-- **README:** [Link to Random Walk Project README](/random-walk/README.md)
+- **README:** [Link to Random Walk Project README](Random-Walk/README.md)
 
 ### 3. Pandemic Simulation and Coloring Theory
 - **Description:** This project is focused on pandemic modeling and control theory within dynamic networks. It aims to provide insights into the spread of diseases and strategies for containment.
-- **README:** [Link to Pandemic Simulation Project README](/Pandemic-Simulation/README.md)
+- **README:** [Link to Pandemic Simulation Project README](Pandemic-Simulation/README.md)
 
 ## Libraries Used
 The projects within this repository utilize various libraries and tools to facilitate network analysis, simulation, and modeling. The specific libraries used in 
