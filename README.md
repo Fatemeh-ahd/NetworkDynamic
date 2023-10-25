@@ -24,7 +24,7 @@ Welcome to the Network Dynamic Repository! This repository hosts three distinct 
 
 ### 3. Pandemic Simulation and Coloring Theory
 - **Description:** This project is focused on pandemic modeling and control theory within dynamic networks. It aims to provide insights into the spread of diseases and strategies for containment.
-- **README:** [Link to Pandemic Simulation Project README](Pandemic-Simulation/README.md)
+- **README:** [Link to Pandemic Simulation Project README](Pandemic-Simmulation/README.md)
 
 ## Libraries Used
 The projects within this repository utilize various libraries and tools to facilitate network analysis, simulation, and modeling. The specific libraries used in 
